@@ -1,0 +1,6 @@
+name=input("name:")
+print(f"Hello, {name.capitalize()}")
+isim=input("isim:")
+print(f"Merhaba, {isim.capitalize()}")
+print(isim.title())
+print(isim.upper())
